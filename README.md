@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rettecnologia.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%8D+Impacto+Social;RET+Tecnologia+%E2%80%A2+Open+Source+%26+Comunidade" alt="Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8C%8D+Impacto+Social;RET+Tecnologia+%E2%80%A2+Open+Source+%26+Comunidade" alt="Impacto Social — RET Tecnologia • Open Source & Comunidade" />
   </a>
 </p>
 
@@ -12,16 +12,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_Source-96%25_Enterprise-success?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="OSS" />
-  <img src="https://img.shields.io/badge/Market-US%2450B_OSS-blue?style=flat-square" alt="Market" />
-  <img src="https://img.shields.io/badge/Cascavel-85%2B_Plugins-red?style=flat-square&logo=python&logoColor=white" alt="Cascavel" />
+  <img src="https://img.shields.io/badge/Open_Source-98%25_dos_Codebases-success?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="OSS" />
+  <img src="https://img.shields.io/badge/Cascavel-100%2B_Plugins-red?style=flat-square&logo=python&logoColor=white" alt="Cascavel" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License" />
 </p>
 
 <br/>
 
 <p align="center">
-  <strong>96% dos codebases enterprise usam open source. O mercado OSS atinge US$50B em 2026.<br/>Na RET, código aberto não é caridade — é responsabilidade estratégica com o ecossistema.</strong>
+  <strong>98% dos codebases comerciais auditados contêm open source (Black Duck, 2026).<br/>Na RET, código aberto não é caridade — é responsabilidade estratégica com o ecossistema.</strong>
 </p>
 
 ---
@@ -44,15 +43,14 @@
 
 Na **RET Tecnologia**, acreditamos que nossas habilidades técnicas carregam uma responsabilidade proporcional ao seu poder. Cada linha de código pode ser mais do que produto comercial — pode ser ferramenta de **democratização, inclusão e fortalecimento da segurança digital global**.
 
-### 📈 O contexto global exige ação:
+### 📈 O contexto exige ação
 
-| Dado Global 2026 | Impacto | Fonte |
+| Dado | Impacto | Fonte |
 |---|---|---|
-| Codebases enterprise com componentes OSS | **96%** | Black Duck OSSRA 2026 |
-| Mercado OSS projetado | **US$50 bilhões** | Linux Foundation |
-| Crescimento anual de adoção enterprise OSS | **+25% ao ano** | Open Source Initiative |
-| Investimento Google em projetos OSS (2024) | **+US$2M em 40+ projetos** | Google OSPO |
-| Spotify FOSS Fund para dependências críticas | **€100K/ano** | Spotify Engineering |
+| Codebases comerciais auditados com componentes open source | **98%** | [Black Duck OSSRA (2026)](https://www.blackduck.com/blog/open-source-trends-ossra-report.html) |
+| Codebases auditados com ao menos uma vulnerabilidade | **87%** | [Black Duck OSSRA (2026)](https://www.blackduck.com/blog/open-source-trends-ossra-report.html) |
+| Mercado de serviços open source projetado para 2026 | **US$50 bilhões** | [ResearchAndMarkets (projeção de 2021)](https://www.businesswire.com/news/home/20211008005142/en/) |
+| Spotify FOSS Fund para mantenedores independentes | **€100 mil** (lançado em 2022) | [Spotify Engineering](https://engineering.atspotify.com/2022/4/announcing-the-spotify-foss-fund) |
 
 > Nosso impacto social não é um departamento. É uma **diretriz de operação**.
 
@@ -78,11 +76,11 @@ Seguimos o modelo de **OSPO (Open Source Program Office)** adotado por Google, M
 <table>
   <tr>
     <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/glferreira-devsecops/Cascavel/main/cascavel_logo.png" width="100" alt="Cascavel Logo"/>
+      <img src="https://raw.githubusercontent.com/glferreira-devsecops/Cascavel/main/docs/cascavel_logo.png" width="100" alt="Cascavel Logo"/>
     </td>
     <td>
       <strong>Cascavel — Quantum Security Framework</strong><br/>
-      Framework open source de segurança ofensiva com <strong>85+ plugins Python</strong>, integração nativa com ferramentas de Red Team (Nuclei, Subfinder, Naabu, Feroxbuster), UX cinematográfica no terminal e relatórios PDF/JSON/Markdown.<br/><br/>
+      Framework open source de segurança ofensiva com <strong>100+ plugins Python</strong>, integração nativa com ferramentas de Red Team (Nuclei, Subfinder, Naabu, Feroxbuster), UX cinematográfica no terminal e relatórios PDF/JSON/Markdown.<br/><br/>
       <a href="https://github.com/glferreira-devsecops/Cascavel"><img src="https://img.shields.io/badge/Repositório-Cascavel-0A0A0A?style=for-the-badge&logo=github" alt="Repo" /></a>
       <a href="https://github.com/glferreira-devsecops/Cascavel/blob/main/LICENSE"><img src="https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge" alt="License" /></a>
       <a href="https://github.com/glferreira-devsecops/Cascavel/stargazers"><img src="https://img.shields.io/github/stars/glferreira-devsecops/Cascavel?style=for-the-badge&color=yellow&logo=github" alt="Stars" /></a>
@@ -90,14 +88,14 @@ Seguimos o modelo de **OSPO (Open Source Program Office)** adotado por Google, M
   </tr>
 </table>
 
-**Problema que resolve:** Ferramentas de Red Team de nível enterprise (Burp Suite Pro, Acunetix, Nessus) custam **US$3,000-15,000/ano por licença** — inacessíveis para pesquisadores independentes, pequenas empresas e comunidades de bug bounty no Brasil e LATAM.
+**Problema que resolve:** Ferramentas comerciais de segurança ofensiva (Burp Suite Pro, Acunetix, Nessus) custam **de centenas a milhares de dólares por ano, por licença** — inacessíveis para pesquisadores independentes, pequenas empresas e comunidades de bug bounty no Brasil e LATAM.
 
 <details>
 <summary><strong>✅ O que Cascavel democratiza</strong></summary>
 
 <br/>
 
-- ✅ **85+ plugins** de segurança ofensiva — de recon a exploit
+- ✅ **100+ plugins** de segurança ofensiva — de recon a exploit
 - ✅ **30+ ferramentas de reconnaissance** integradas nativamente
 - ✅ Relatórios profissionais (PDF, JSON, Markdown) para entrega a clientes
 - ✅ Licença **MIT — 100% livre**, sem vendor lock-in
@@ -128,13 +126,14 @@ python3 cascavel.py --help
 
 <br/>
 
-| Ferramenta | Custo Anual | Cascavel Equivalente |
+| Ferramenta | Custo Anual (licença) | Cascavel |
 |--|--|--|
-| Burp Suite Pro | US$ 449/user | ✅ **Grátis** |
-| Acunetix | US$ 4,500+ | ✅ **Grátis** |
-| Nessus Professional | US$ 3,590 | ✅ **Grátis** |
-| Invicti (Netsparker) | US$ 6,000+ | ✅ **Grátis** |
-| **Total economizado** | **US$ 15,000+/ano** | **MIT License** |
+| Burp Suite Pro | US$ 499 por usuário (2026) | ✅ **Grátis** |
+| Nessus Professional | US$ 4.790 (2026) | ✅ **Grátis** |
+| Acunetix | Sob consulta | ✅ **Grátis** |
+| Invicti (Netsparker) | Sob consulta | ✅ **Grátis** |
+
+> Comparação apenas de custo de licença. O Cascavel cobre parte dos casos de uso dessas ferramentas, não todos os recursos de cada uma.
 
 </details>
 
@@ -146,7 +145,7 @@ Dedicamos horas do nosso time para mentorias gratuitas — **investimento direto
 
 | Público-Alvo | Foco | Formato | Referência |
 |-------------|------|---------|-----------|
-| 🧑‍💻 Devs em início de carreira | Clean Code, Git, arquitetura, SOLID | Sessões 1:1 quinzenais | Google G2G model |
+| 🧑‍💻 Devs em início de carreira | Clean Code, Git, arquitetura, SOLID | Sessões 1:1 quinzenais | Mentoria entre pares |
 | 🔐 Comunidades de segurança | OWASP Top 10, OSINT, pentesting ético | Workshops mensais | PTES/OWASP |
 | 🎓 Estudantes universitários | Preparação para mercado, portfólio GitHub | Office hours abertos | First-job readiness |
 | 🔄 Profissionais em transição | DevOps, Cloud, Security reskilling | Trilhas guiadas | WEF reskilling data |
@@ -160,11 +159,13 @@ Publicamos artigos técnicos gratuitos cobrindo temas críticos de engenharia e 
 
 <br/>
 
-- 🔍 [OSINT: Sua Empresa Está Nua na Internet e Você Nem Sabe](https://rettecnologia.org/blog)
-- 🛡️ [Zero Trust Não É Buzzword: Como Implementar Segurança Real em 2026](https://rettecnologia.org/blog)
-- 💀 [Anatomia de um Ataque Ransomware em 2026: Do Clique ao Resgate](https://rettecnologia.org/blog)
-- 🔑 [Suas APIs Estão Abertas? Os 5 Erros Fatais do OWASP API Top 10](https://rettecnologia.org/blog)
-- 📦 [Supply Chain Security: Por que 96% dos Codebases Têm Vulnerabilidades OSS](https://rettecnologia.org/blog)
+- 🔍 [Exposição pública: o que seu SaaS mostra antes do login](https://www.rettecnologia.org/blog/osint-pegada-digital-empresa-exposta)
+- 🛡️ [Acesso mínimo para SaaS pequeno: começar pelo que importa](https://www.rettecnologia.org/blog/zero-trust-nao-e-buzzword)
+- 💀 [Plano de contenção: o que fazer antes do incidente](https://www.rettecnologia.org/blog/ransomware-anatomia-ataque-2026)
+- 🔑 [APIs de SaaS: o erro quase sempre está na permissão](https://www.rettecnologia.org/blog/seguranca-apis-owasp-top10-2026)
+- 📦 [Supply chain npm em 2026: 1,23 milhão de pacotes maliciosos e como se defender](https://www.rettecnologia.org/blog/supply-chain-npm-1-milhao-pacotes-maliciosos-2026)
+
+Todos os artigos: [rettecnologia.org/blog](https://www.rettecnologia.org/blog)
 
 </details>
 
@@ -172,14 +173,13 @@ Publicamos artigos técnicos gratuitos cobrindo temas críticos de engenharia e 
 
 ## 📊 Impacto em Números
 
-| Métrica | Resultado | Benchmark |
-|---------|----------|-----------|
-| 🛡️ Plugins de segurança open source | **85+** | Líder LATAM |
-| 🌐 Ferramentas de recon integradas | **30+** | Enterprise-grade |
-| 📄 Artigos técnicos publicados | **6+** | Quality > Quantity |
-| 🎓 Horas de mentoria / trimestre | **40+** | Google G2G: 20h/quarter |
-| 🔓 Licença | **MIT — 100% livre** | Zero vendor lock-in |
-| 💰 Valor equivalente economizado pela comunidade | **US$15K+/ano** | vs. ferramentas comerciais |
+| Métrica | Resultado |
+|---------|----------|
+| 🛡️ Plugins de segurança open source | **100+** |
+| 🌐 Ferramentas de recon integradas | **30+** |
+| 📄 Artigos técnicos publicados | **50+** |
+| 🎓 Horas de mentoria / trimestre | **40+** |
+| 🔓 Licença | **MIT — 100% livre** |
 
 ---
 
@@ -187,10 +187,10 @@ Publicamos artigos técnicos gratuitos cobrindo temas críticos de engenharia e 
 
 | Framework / Fonte | Contribuição |
 |---|---|
-| **Linux Foundation / TODO Group** | Guia de implementação de OSPO |
-| **Black Duck OSSRA Report 2026** | Estado da segurança em open source |
-| **Google Open Source Programs Office** | Modelo de contribuição corporativa |
-| **Spotify FOSS Fund** | Financiamento sustentável de dependências |
+| [**Linux Foundation / TODO Group**](https://todogroup.org/) | Guia de implementação de OSPO |
+| [**Black Duck OSSRA Report 2026**](https://www.blackduck.com/blog/open-source-trends-ossra-report.html) | Estado da segurança em open source |
+| [**Google Open Source Programs Office**](https://opensource.google/) | Modelo de contribuição corporativa |
+| [**Spotify FOSS Fund**](https://engineering.atspotify.com/2022/4/announcing-the-spotify-foss-fund) | Financiamento sustentável de dependências |
 | **OWASP / PTES** | Standards de segurança adotados |
 
 ---
@@ -240,6 +240,6 @@ Contribuições são bem-vindas! Quer adicionar uma frente de impacto, sugerir p
   <sub>
     <strong>RET Tecnologia</strong> · Engenharia de Software & Cibersegurança Ofensiva<br/>
     <a href="https://rettecnologia.org">rettecnologia.org</a> · <a href="mailto:contato@rettecnologia.org">contato@rettecnologia.org</a><br/>
-    <em>96% do software do mundo roda em open source. Nós contribuímos ativamente para que esse ecossistema seja mais seguro.</em> 🌍
+    <em>98% dos codebases comerciais contêm open source. Nós contribuímos ativamente para que esse ecossistema seja mais seguro.</em> 🌍
   </sub>
 </p>
